@@ -1,6 +1,5 @@
 Flask
 packaging
 wheel
-torch==2.4.0
-llmverse==0.1.3
-torch==2.4.0
+torch
+llmverse-0.1.3-py3-none-any.whl
