@@ -1,5 +1,6 @@
 Flask
 packaging
 wheel
+torch==2.4.0
 llmverse==0.1.3
 torch==2.4.0
