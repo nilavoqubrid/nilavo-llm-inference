@@ -1,4 +1,5 @@
 Flask
 packaging
 wheel
+numpy
 torch
