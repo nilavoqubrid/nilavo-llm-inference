@@ -1,2 +1,4 @@
 # nilavo-llm-inference
-<code style="color : red">LLM Inference.</code>
+<span style="color:red">
+LLM Inference.
+</span>
