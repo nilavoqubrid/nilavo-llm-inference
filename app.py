@@ -1,17 +1,5 @@
 import subprocess
 import sys
-
-try:
-    import llmverse
-    print("llmverse is already installed.")
-except ImportError:
-    print("llmverse is not installed. Installing now...")
-    subprocess.check_call([sys.executable, "-m", "pip", "install", "llmverse"])
-    print("llmverse installed successfully!")
-print("Running the rest of your Python script...")
-
-
-
 from flask import Flask, request, jsonify
 from llmverse import download_hf_model, load_model, get_response
 
