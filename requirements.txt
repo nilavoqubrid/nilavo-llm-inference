@@ -3,3 +3,4 @@ packaging
 wheel
 numpy
 torch
+llmverse
